@@ -7,11 +7,15 @@
 
 ### here is a little bit code
 ```
-$ System.out.println("Hello world")
+System.out.println("Hello world")
+if (a > b){
+  sort();
+}
 ```
 
 ### here are some tasks
 
-- [ ] Turn on GitHub Pages
+- [x] Turn on GitHub Pages
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
+- [x] blah blah blah
