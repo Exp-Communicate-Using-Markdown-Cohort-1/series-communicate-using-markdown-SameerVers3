@@ -5,7 +5,13 @@
 ![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-SameerVers3/assets/111224603/8ec817e8-9d0e-413c-94b6-a283884d5fda)
 
 
-### her is a little bit code
+### here is a little bit code
 ```
 $ System.out.println("Hello world")
 ```
+
+### here are some tasks
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
